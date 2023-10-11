@@ -24,6 +24,7 @@ public class StaffFunctions : MonoBehaviour
     void Start()
     {
         mainCam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
+        canFire = true;
     }
 
     // Update is called once per frame
