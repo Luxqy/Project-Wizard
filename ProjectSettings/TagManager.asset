@@ -3,13 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-<<<<<<< Updated upstream
   tags: []
-=======
-  tags:
-  - Enemy
-  - Pointer
->>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -46,22 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Background
-    uniqueID: 3937506709
-    locked: 0
-  - name: Loot
-    uniqueID: 647551013
-    locked: 0
-  - name: Castle
-    uniqueID: 2201030155
-    locked: 0
-  - name: Weapon
-    uniqueID: 1359960683
-    locked: 0
-  - name: Character
-    uniqueID: 1688376185
-    locked: 0
-  - name: Projectile
-    uniqueID: 2348646483
     locked: 0
